@@ -58,7 +58,7 @@ body {
 
 .header {
   color: #fff;
-  background: #0175a4;
+  background: #2c2c2c;
   height: 3.4em;
   padding: 0.5em 0 0;
   position: fixed;
@@ -121,16 +121,16 @@ input[type="text"]:focus {
 
 .clear { clear: both; }
 
-.blue { color: #0175a4 }
+.blue { color: #E20614 }
 
 input.select-copy {
   width: 100%;
-  color: #0175a4;
+  color: #E20614;
   word-wrap: break-word;
 }
 
 button {
-  background-color: #0175a4;
+  background-color: #E20614;
   color: #fff;
   border: 1px solid transparent;
   float: right;

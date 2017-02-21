@@ -1,5 +1,7 @@
 # Remote Preview Node
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/soldotno/Remote-Preview-Node.svg)](https://greenkeeper.io/)
+
 
 A node.js port of [viljamis/Remote-Preview](https://github.com/viljamis/Remote-Preview)
 
